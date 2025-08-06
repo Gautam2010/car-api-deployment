@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Swift",
+        "brand": "Maruti Suzuki",
+        "color": "White",
+        "cost": 650000,
+        "features": [
+            "Petrol",
+            "Manual",
+            "ABS"
+        ]
+    },
+    {
+        "name": "Altroz",
+        "brand": "Tata",
+        "color": "Red",
+        "cost": 750000,
+        "features": [
+            "Diesel",
+            "Manual",
+            "Touchscreen"
+        ]
+    },
+    {
+        "name": "Baleno",
+        "brand": "Maruti Suzuki",
+        "color": "Blue",
+        "cost": 800000,
+        "features": [
+            "Petrol",
+            "Automatic",
+            "Dual Airbags"
+        ]
+    },
+    {
+        "name": "XUV700",
+        "brand": "Mahindra",
+        "color": "Black",
+        "cost": 1600000,
+        "features": [
+            "Diesel",
+            "Automatic",
+            "ADAS"
+        ]
+    },
+    {
+        "name": "Nexon EV",
+        "brand": "Tata",
+        "color": "Silver",
+        "cost": 1450000,
+        "features": [
+            "Electric",
+            "Automatic",
+            "Fast Charging"
+        ]
+    },
+    {
+        "name": "Venue",
+        "brand": "Hyundai",
+        "color": "Gray",
+        "cost": 1100000,
+        "features": [
+            "Petrol",
+            "Manual",
+            "Sunroof"
+        ]
+    },
+    {
+        "name": "Creta",
+        "brand": "Hyundai",
+        "color": "Red",
+        "cost": 1300000,
+        "features": [
+            "Diesel",
+            "Automatic",
+            "Rear Camera"
+        ]
+    },
+    {
+        "name": "Thar",
+        "brand": "Mahindra",
+        "color": "Green",
+        "cost": 1500000,
+        "features": [
+            "Diesel",
+            "4x4",
+            "Convertible Roof"
+        ]
+    },
+    {
+        "name": "Tiago",
+        "brand": "Tata",
+        "color": "Orange",
+        "cost": 600000,
+        "features": [
+            "Petrol",
+            "Manual",
+            "Reverse Sensors"
+        ]
+    },
+    {
+        "name": "Kiger",
+        "brand": "Renault",
+        "color": "Blue",
+        "cost": 900000,
+        "features": [
+            "Petrol",
+            "CVT",
+            "LED Headlights"
+        ]
+    }
+]

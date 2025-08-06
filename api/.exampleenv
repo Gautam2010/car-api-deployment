@@ -1,0 +1,1 @@
+MONGO_URL=mongodb://mongo-service.car-app.svc.cluster.local:27017
